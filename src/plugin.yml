@@ -1,0 +1,11 @@
+name: Gravity
+version: 1.0
+author: Stylobow
+main: fr.stylobow.gravity.Main
+commands:
+  gravity:
+    description: Commande du plugin Gravity.
+    permission: admin.gravity
+    permission-message: §7[§d§lGravity§r§7] §cTu n'as pas la permission d'exécuter cette commande.
+    usage: /gravity <command>
+    aliases: [grav]
